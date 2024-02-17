@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🧰 My Blogs:
+
+ <a href="https://www.linkedin.com/in/kumar-rupesh-4508589/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ </a>
+
+ 
 ## ✉️ Find me on:
 
 
