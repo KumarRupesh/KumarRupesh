@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,xcode,c,cpp,kotlin,gcp,firebase,github,html,idea,java,js,linux,mysql,nodejs,postman,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,python,cpp,kotlin,gcp,firebase,github,html,idea,java,js,linux,mysql,postman,vscode&perline=14" />
   </a>
 </p>
 
