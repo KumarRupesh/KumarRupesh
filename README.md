@@ -3,7 +3,7 @@
 
 😄 I have been frequently traveling between major global financial centers including, but not limited to,  New York, Mumbai, and Montreal for academic purposes and for work on advanced and latest fintech innovations.
 
-I am now working on introducing SignoFi to the US and India financial markets.
+I am now working on introducing my Startup to the US and India financial markets.
 
 💬 Please text me if you have similar interests and would want to connect.
 <!--
