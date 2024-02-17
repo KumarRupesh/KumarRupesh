@@ -40,7 +40,10 @@ Here are some ideas to get you started:
 
  <a href="https://www.linkedin.com/in/kumar-rupesh-4508589/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 
- <a href="https://twitter.com/OSSInsight" target="_blank">
+ <a href="https://www.linkedin.com/in/kumar-rupesh-4508589/" target="_blank">
+<img src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+
+ <a href="https://twitter.com/RupeshSwift" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 
 </p>
