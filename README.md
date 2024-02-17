@@ -32,16 +32,11 @@ Here are some ideas to get you started:
   <a href="https://signofi.com/posts/f/goal" target="_blank" rel="noopener noreferrer"> <img src="https://img1.wsimg.com/isteam/ip/0b7691a4-360a-4efb-8320-79ef3068be97/iStock-1413637662.jpg/:/rs=w:1280" alt="Python" height="80" style="vertical-align:top; margin:4px"> A Window To Decentralization
  </a>
 
+
  
 ## 🤝 Connect With Me:
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+
 
 <!--icons and links-->
 <p align="center">
@@ -51,12 +46,8 @@ Here are some ideas to get you started:
   
 </p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
+## 🧰 Languages and Tools:
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
@@ -64,9 +55,4 @@ Here are some ideas to get you started:
 </p>
 
 
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
+
