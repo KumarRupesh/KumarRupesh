@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 -->
 
 ## 🧰 My Blogs:
-
+<p align="center">
  <a href="https://signofi.com/posts/f/ai-in-finance" target="_blank" rel="noopener noreferrer"> <img src="https://img1.wsimg.com/isteam/ip/0b7691a4-360a-4efb-8320-79ef3068be97/SignoFi_Img.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280" alt="Python" height="80" style="vertical-align:top; margin:4px">
  </a>
 
   <a href="https://signofi.com/posts/f/real-time-programming" target="_blank" rel="noopener noreferrer"> <img src="https://img1.wsimg.com/isteam/ip/0b7691a4-360a-4efb-8320-79ef3068be97/iStock-1191856584.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280" alt="Python" height="80" style="vertical-align:top; margin:4px">
  </a>
 
-  <a href="https://signofi.com/posts/f/goal" target="_blank" rel="noopener noreferrer"> <img src="https://signofi.com/posts/f/goal" alt="Python" height="80" style="vertical-align:top; margin:4px">
+  <a href="https://signofi.com/posts/f/goal" target="_blank" rel="noopener noreferrer"> <img src="https://img1.wsimg.com/isteam/ip/0b7691a4-360a-4efb-8320-79ef3068be97/iStock-1413637662.jpg/:/rs=w:1280" alt="Python" height="80" style="vertical-align:top; margin:4px">
  </a>
-
+</p>
  
 ## ✉️ Find me on:
 
