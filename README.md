@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🧰 My Blogs:
+## 📚✍️ My Blogs
 
  <a href="https://signofi.com/posts/f/ai-in-finance" target="_blank" rel="noopener noreferrer"> <img src="https://img1.wsimg.com/isteam/ip/0b7691a4-360a-4efb-8320-79ef3068be97/SignoFi_Img.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280" alt="Python" height="80" style="vertical-align:top; margin:4px"> Artifical Intelligence In Financial Investment Management
  And Market Research</a>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
  
-## 🤝 Connect With Me:
+## 🌍🤝 Connect With Me:
 
 
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   
 </p>
 
-## 🧰 Languages and Tools:
+## 🧮🛠️ Languages and Tools:
 
 <p align="center">
   <a href="https://skillicons.dev">
