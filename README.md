@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi There 👋
 🔭 My areas of interest and engagements includes emerging innovation and technologies in the field of artificial intelligence (AI), machine learning (ML), quantitative finance, blockchain, web3, augmented reality, virtual reality, and many others that help in realizing next generation ideas into real functioning systems.
 
 💹 I have been frequently traveling between major global financial centers including, but not limited to,  New York, Mumbai, and Montreal for academic purposes and for work on advanced and latest fintech innovations.
